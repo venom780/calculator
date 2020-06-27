@@ -1,0 +1,57 @@
+.main{
+    border: 2px solid black;
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+    background-color:silver;
+    border-radius: 5px;
+}
+.result{
+    width: 97%;
+    height: 37px;
+    background-color: blanchedalmond;
+    color: black;
+    font-size: large;
+}
+.clearBtn{
+    width: 100%;
+    height: 40px;
+    margin-top: 4px;
+    background-color: red;
+    color: whitesmoke;
+}
+.btn{
+    background-color: gray;
+    color: whitesmoke;
+    width: 70px;
+    height: 50px;
+    margin: 1px;
+}
+.halfBtn{
+    background-color: gold;
+    color: black;
+    width: 95px;
+    height: 50px;
+    margin: 1px;
+}
+.halfbtn{
+    background-color: gold;
+    color: black;
+    width: 95px;
+    height: 50px;
+    margin: 1px;    
+}
+.bt{
+    background-color: gold;
+    color: black;
+    width: 70px;
+    height: 50px;
+    margin: 1px;
+}
+.HalfBtn{
+    background-color: gray;
+    color: whitesmoke;
+    width: 95px;
+    height: 50px;
+    margin: 1px;
+}
